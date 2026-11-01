@@ -1,0 +1,25 @@
+COS201 WEEK 3 ASSIGNMENT SUBMISSION
+
+Student Name: Crown Paul
+Course Code: COS201
+Assignment: Week 3 Java Programming Assignment
+
+Files Submitted:
+1. SimpleCalculator.java
+2. AverageCalculator.java
+3. ItemCost.java
+4. README.md
+5. Submission_Note.txt
+
+Description:
+This submission contains three Java programs demonstrating basic arithmetic operations, average calculation, and item cost calculation.
+
+The README.md file provides information about the programs and instructions on how to compile and run them.
+
+All programs were written using Java.
+
+GitHub Repository:
+https://github.com/Paulcrown2008/Cos201-week3Crownpaul25-17994
+
+Submitted by:
+Crown Paul
